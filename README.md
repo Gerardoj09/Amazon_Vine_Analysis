@@ -13,7 +13,12 @@
 ![image](https://user-images.githubusercontent.com/88596274/151061556-31414260-8fa7-4a99-8f97-69b765f3b3e2.png)
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-#### 
+#### The percentage of Vine reviews which were 5 stars is 40.24%
+#### The percentage of non-Vine reviews which were 5 stars is 0.13%
+![image](https://user-images.githubusercontent.com/88596274/151102024-6a71373e-106c-45ae-8e5a-b7e374113090.png)
 
 ## Summary
-### There is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+### As shown in the results, there's a huge positivity bias for reviews in the Vine program. A 40.14% difference of the Vine reviews over the non-Vine reviews.
+
+### Additionally, there is also a miningful diference between the vine and non-vine quantity of reviews; this is directly related to the previous statement.
+![image](https://user-images.githubusercontent.com/88596274/151102575-e10d54bf-0ed7-4eec-9f7b-4273acf7e1a7.png)
